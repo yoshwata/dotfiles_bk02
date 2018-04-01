@@ -77,6 +77,8 @@ set expandtab
 " ctag settings
 set tag=tags
 let g:auto_ctags=1
+" set encodgin (for NERDTree
+set encoding=utf-8
 
 " Vim-go setting start--------------------------------
 let g:go_highlight_functions = 1
